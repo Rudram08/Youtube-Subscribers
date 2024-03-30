@@ -22,7 +22,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://ab-yt-subs.onrender.com/",
+        url: "https://youtube-subscribers-t88r.onrender.com/api-docs",
       },
       {
         url: "http://localhost:3000/",
